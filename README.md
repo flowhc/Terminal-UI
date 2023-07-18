@@ -1,3 +1,15 @@
+#Terminal-UI
+
+##Start
+There are differnt ways to start this UI:
+
+- In your IDE: Check out the Repo and run it in your IDE
+- Docker: Pull the Docker Image https://hub.docker.com/r/flowhc/terminal-api
+- With UI: Use the Docker-Compose file https://github.com/flowhc/Terminal-Infrastructur
+
+Hint: If you wan to checkout the code or Docker Image, you als need the backend, which you can find her https://github.com/flowhc/Terminal-API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
