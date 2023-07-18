@@ -1,6 +1,6 @@
-#Terminal-UI
+# Terminal-UI
 
-##Start
+## Start
 There are differnt ways to start this UI:
 
 - In your IDE: Check out the Repo and run it in your IDE
